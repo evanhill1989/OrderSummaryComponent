@@ -117,8 +117,8 @@ button{
     display: flex;
     justify-content: center;
     text-decoration: none;
-    font-size:.9rem;
     font-weight:700;
+    font-size:.9rem;
     letter-spacing: .04em;
     color:lightslategray;
     margin:0;
