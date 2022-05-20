@@ -69,7 +69,6 @@ button{
     display:flex;
     flex-direction:column;
     justify-content: center;
-    padding:1.5em 2em 2.7em 2em;
 }
 
 .plan{
